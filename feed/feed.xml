@@ -13,6 +13,99 @@
 	</author>
 	
 	<entry>
+		<title>COSCUP 2021</title>
+		<link href="https://starbugs-blog.netlify.app/posts/conference/20210731-COSCUP-2021/"/>
+		<updated>2021-07-31T00:00:00-00:00</updated>
+		<id>https://starbugs-blog.netlify.app/posts/conference/20210731-COSCUP-2021/</id>
+		<content type="html">
+		  &lt;p&gt;&lt;a href=&quot;https://coscup.org/2021/zh-TW/&quot;&gt;COSCUP 2021 | Conference for Open Source Coders, Users, and Promoters&lt;/a&gt;&lt;/p&gt;
+&lt;!-- summary --&gt;
+&lt;h2 id=&quot;%E9%97%9C%E6%96%BC-coscup&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#%E9%97%9C%E6%96%BC-coscup&quot;&gt;#&lt;/a&gt; 關於 COSCUP&lt;/h2&gt;
+&lt;p&gt;COSCUP 是由台灣開放原始碼社群聯合推動的年度研討會，起源於 2006 年，是台灣自由軟體運動 (FOSSM) 重要的推動者之一。活動包括有講座、攤位、社團同樂會等，除了邀請國際的重量級演講者之外，台灣本土的自由軟體推動者也經常在此發表演說，會議的發起人、工作人員與講者都是志願參與的志工。COSCUP 的宗旨在於提供一個聯結開放原始碼開發者、使用者與推廣者的平台。希望藉由每年一度的研討會，來推動自由及開放原始碼軟體 (FLOSS)。由於有許多贊助商及熱心捐助者，所有議程都是免費參加，但因會場人數限制，通常在一開放網路報名後就會立刻額滿。&lt;/p&gt;
+&lt;!-- summary --&gt;
+&lt;p&gt;開放原始碼 (Open source) 是在 1998 年出現的名詞，大家早已耳熟能詳。這種在網路上已經進行二、三十年的軟體開發模式之所以能成功，有許多原因。其中一個極為關鍵的因素，就是開發者與使用者的直接接觸。無屏障的交流加速了問題的回報和修補機制，而當這個機制被網路效應放大到極限時，Linus 定律就出現了：「臭蟲難逃眾人法眼」(With enough eyeballs, all bugs are shallow)，軟體品質因此顯著提昇。在開放原始碼的模式中，開發者和使用者中間的人不再是銷售員或客服，而是讓軟體更容易被接受的推廣者 (Promoters)，他們打包套件讓軟體更好裝、寫說明文件讓軟體更易學、辦推廣活動讓更多人接觸到好軟體、在網路上回答問題解決使用者的疑惑，而且不會把開發者藏在背後產生資訊的不對稱。&lt;/p&gt;
+&lt;p&gt;開發者 (Coders)、使用者 (Users) 和推廣者 (Promoters) 是讓自由及開放原始碼軟體發光發熱的三大支柱，這個研討會就是專為這三種人舉辦的：你可以是 A 軟體的開發者、B 軟體的推廣者、C 軟體的使用者，不論你是已經踏入自由及開放原始碼軟體領域，還是一直站在門口不知如何入門，歡迎你來參加 COSCUP — Conference for Open Source Coders, Users and Promoters!&lt;/p&gt;
+
+		</content>
+	</entry>
+	
+	<entry>
+		<title>PycCon Taiwan 2021</title>
+		<link href="https://starbugs-blog.netlify.app/posts/conference/20211002-PyCon-2021%20copy/"/>
+		<updated>2021-10-02T00:00:00-00:00</updated>
+		<id>https://starbugs-blog.netlify.app/posts/conference/20211002-PyCon-2021%20copy/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;pycon-taiwan&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#pycon-taiwan&quot;&gt;#&lt;/a&gt; PyCon Taiwan&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;持續舉辦 9 年&lt;/li&gt;
+&lt;li&gt;每年議程 30 場以上&lt;/li&gt;
+&lt;li&gt;參與會眾 800 人以上&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PyCon，亦即 Python 年會，是全球 Python 社群的年度盛會。PyCon 由各地同好自發籌辦，而現在台灣也有自己的 Python 年會了。這個活動旨在聚集台灣各領域應用 Python 的組織與個人，交流彼此的經驗心得，分享最新的技術發展，並親身體驗社群獨有的熱情。&lt;/p&gt;
+&lt;p&gt;2021 年是 PyCon Taiwan 的十周年，今年 PyCon Taiwan 除了傳承十年來的社群交流經驗，我們更做了一些新嘗試，像是 Podcast 等。以期 PyCon Taiwan 十周年能促進不同族群間的交流，激盪出不一樣的火花。&lt;/p&gt;
+
+		</content>
+	</entry>
+	
+	<entry>
+		<title>ModernWeb 2021</title>
+		<link href="https://starbugs-blog.netlify.app/posts/conference/20211012-ModernWeb-2021/"/>
+		<updated>2021-10-12T00:00:00-00:00</updated>
+		<id>https://starbugs-blog.netlify.app/posts/conference/20211012-ModernWeb-2021/</id>
+		<content type="html">
+		  &lt;p&gt;&lt;a href=&quot;https://modernweb.ithome.com.tw/&quot;&gt;ModernWeb&#39;21 VIRTUAL EVENT&lt;/a&gt;&lt;/p&gt;
+&lt;!-- summary --&gt;
+&lt;p&gt;身為企業 Web 開發者，除了要鍛鍊本職學能、培養扎實的 Web 開發技術底蘊外，必須切記技術的發展日新月異，因此在 Web 開發這一行，不可能老是憑著相同一招半式打天下。Web 開發人員需要學習更新穎、更多元也更精深的技術，且遍佈開發語言、架構設計、框架應用、敏捷管理流程，甚至是實作技巧等眾多環節。&lt;/p&gt;
+&lt;!-- summary --&gt;
+&lt;p&gt;立即報名參加「ModernWeb&#39;21 VIRTUAL EVENT」，我們以 Web 週規畫了多場精彩講座議程，讓 Web 技術大神們來幫您醍醐灌頂、打通任督二脈，在網路技術的浩瀚銀河創造更多的可能性！&lt;/p&gt;
+
+		</content>
+	</entry>
+	
+	<entry>
+		<title>MOPCON 2021</title>
+		<link href="https://starbugs-blog.netlify.app/posts/conference/20211023-MOPCON-2021/"/>
+		<updated>2021-10-23T00:00:00-00:00</updated>
+		<id>https://starbugs-blog.netlify.app/posts/conference/20211023-MOPCON-2021/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;%E6%88%91%E5%80%9110%E6%AD%B2%E5%9B%89&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#%E6%88%91%E5%80%9110%E6%AD%B2%E5%9B%89&quot;&gt;#&lt;/a&gt; 我們10歲囉&lt;/h2&gt;
+&lt;p&gt;_Growing With You&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://mopcon.org/2021/&quot;&gt;行動科技年會 2021 | Mobile / Open / Platform Conference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mopcon.org/2021/schedule&quot;&gt;主要議程 | MOPCON 2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mopcon.org/2021/speaker&quot;&gt;講者陣容 | MOPCON 2021&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- summary --&gt;
+&lt;h2 id=&quot;%E5%A0%85%E6%8C%81%E5%8D%81%E5%B9%B4%EF%BC%8C%E5%BE%88%E3%80%8C%E5%8D%97%E3%80%8D&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#%E5%A0%85%E6%8C%81%E5%8D%81%E5%B9%B4%EF%BC%8C%E5%BE%88%E3%80%8C%E5%8D%97%E3%80%8D&quot;&gt;#&lt;/a&gt; 堅持十年，很「南」&lt;/h2&gt;
+&lt;p&gt;MOPCON (Mobile Open Platform Conference) 堅持濁水溪以南的行動科技年會，南台灣千人軟體圈盛事。時逢第十周年，秉持著 Growing with you 精神與您一同成長，今年主題聚焦 Mobile 與 AIoT，期待能邀請老朋友和新同學，我們線上見！&lt;/p&gt;
+&lt;!-- summary --&gt;
+		</content>
+	</entry>
+	
+	<entry>
+		<title>JSDC 2021</title>
+		<link href="https://starbugs-blog.netlify.app/posts/conference/20211030-JSDC-2021/"/>
+		<updated>2021-10-30T00:00:00-00:00</updated>
+		<id>https://starbugs-blog.netlify.app/posts/conference/20211030-JSDC-2021/</id>
+		<content type="html">
+		  &lt;!-- summary --&gt;
+&lt;h2 id=&quot;javascript-%E9%96%8B%E7%99%BC%E8%80%85%E5%B9%B4%E6%9C%83&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#javascript-%E9%96%8B%E7%99%BC%E8%80%85%E5%B9%B4%E6%9C%83&quot;&gt;#&lt;/a&gt; JavaScript 開發者年會&lt;/h2&gt;
+&lt;p&gt;JSDC 打破了壁壘，整合來自獨立開發者、企業、組織及機構的科技力量。&lt;/p&gt;
+&lt;p&gt;我們致力於知識全球化，並讓參與者重新認識 JavaScript。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://2021.jsdc.tw/&quot;&gt;JSDC 2021 - 歡迎參加主年會&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://2021.jsdc.tw/timesheets&quot;&gt;JSDC 2021 - 大會議程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://2021.jsdc.tw/speakers&quot;&gt;JSDC 2021 - 講者介紹&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- summary --&gt;
+&lt;h2 id=&quot;%E9%97%9C%E6%96%BCjsdc&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#%E9%97%9C%E6%96%BCjsdc&quot;&gt;#&lt;/a&gt; 關於JSDC&lt;/h2&gt;
+&lt;p&gt;JavaScript 開發者年會 (JavaScript Developer Conference，簡稱 JSDC) 是台灣最大的 JavaScript 年度性技術研討會， 旨在提供台灣中高階 JavaScript 技術人才與世界最新 JavaScript 相關技術討論與分享。&lt;br&gt;
+JSDC 由 2011 年底開始，由三個台灣開發者社群共同發起，近年各式開發者社群蓬勃發展Front-End Developer、 &lt;a href=&quot;http://angular.tw/&quot;&gt;Angular.tw&lt;/a&gt;、 &lt;a href=&quot;http://reactjs.tw/&quot;&gt;ReactJS.tw&lt;/a&gt; 等新興社群⼀⼀成立， 我們期許 JSDC 能成為每年網⾴技術開發者的中⾼階技術交流活動，整合來自獨立開發者、企業、組織及機構的科技力量，並致力於知識全球化，讓參與者重新認識 JavaScript。&lt;/p&gt;
+
+		</content>
+	</entry>
+	
+	<entry>
 		<title>第106期 前端開發 推薦文章</title>
 		<link href="https://starbugs-blog.netlify.app/posts/starbugs-weekly/106/gqsm-106/"/>
 		<updated>2021-11-09T00:00:00-00:00</updated>
@@ -199,9 +292,9 @@
 	
 	<entry>
 		<title>DevOpsDays Taipei 2021</title>
-		<link href="https://starbugs-blog.netlify.app/posts/activities/20211120-devopsday-2021/"/>
+		<link href="https://starbugs-blog.netlify.app/posts/conference/20211120-DevOpsDay-2021/"/>
 		<updated>2021-11-24T00:00:00-00:00</updated>
-		<id>https://starbugs-blog.netlify.app/posts/activities/20211120-devopsday-2021/</id>
+		<id>https://starbugs-blog.netlify.app/posts/conference/20211120-DevOpsDay-2021/</id>
 		<content type="html">
 		  &lt;p&gt;DevOpsDays Taipei 2021 即將在 2021/11/24 於臺北文創盛大舉辦，Agile &lt;a href=&quot;http://community.tw/&quot;&gt;Community.tw&lt;/a&gt;、DevOps Taiwan Community、HashiCorp User Group Taipei 以及 iThome 再次攜手合作，期盼再創屬於臺灣在地的 DevOps 高峰盛會。&lt;/p&gt;
 &lt;h2 id=&quot;devopsdays-taipei&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#devopsdays-taipei&quot;&gt;#&lt;/a&gt; DevOpsDays Taipei&lt;/h2&gt;

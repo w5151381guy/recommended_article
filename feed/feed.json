@@ -9,8 +9,8 @@
     "url": ""
   },
   "items": [{
-      "id": "https://starbugs-blog.netlify.app/posts/activities/20211120-devopsday-2021/",
-      "url": "https://starbugs-blog.netlify.app/posts/activities/20211120-devopsday-2021/",
+      "id": "https://starbugs-blog.netlify.app/posts/conference/20211120-DevOpsDay-2021/",
+      "url": "https://starbugs-blog.netlify.app/posts/conference/20211120-DevOpsDay-2021/",
       "title": "DevOpsDays Taipei 2021",
       "content_html": "<p>DevOpsDays Taipei 2021 即將在 2021/11/24 於臺北文創盛大舉辦，Agile <a href=\"http://Community.tw\">Community.tw</a>、DevOps Taiwan Community、HashiCorp User Group Taipei 以及 iThome 再次攜手合作，期盼再創屬於臺灣在地的 DevOps 高峰盛會。</p>\n<h2 id=\"devopsdays-taipei\"><a class=\"direct-link\" href=\"#devopsdays-taipei\">#</a> DevOpsDays Taipei</h2>\n<!-- summary -->\n<p>DevOpsDays Taipei 是由臺灣在地技術社群發起，結合社群、企業共同舉辦之年度 DevOps 盛會。DevOpsDays 由 DevOps 之父 Patrick Debois 發源自比利時，經過全球社群的共同響應，如今在全球，每年皆有多個城市舉辦以城市掛名的 DevOpsDays。</p>\n<p>根據 iThome 的報導，不論是國內外的知名企業例如台積電、金士頓、趨勢科技、國泰金控等皆早已擁抱 DevOps，引領企業持續改善、邁向新一波的 IT 數位轉型。DevOps 作為同時蘊含技術與文化轉型雙主軸的 IT 熱門關鍵字，其影響力已不僅是 IT 圈內人人皆知，更擴展至企業組織的各個層面。</p>\n<!-- summary -->\n<h3 id=\"%E6%82%A8%E7%B5%95%E5%B0%8D%E4%B8%8D%E8%83%BD%E9%8C%AF%E9%81%8E\"><a class=\"direct-link\" href=\"#%E6%82%A8%E7%B5%95%E5%B0%8D%E4%B8%8D%E8%83%BD%E9%8C%AF%E9%81%8E\">#</a> 您絕對不能錯過</h3>\n<p>臺灣今年度最大場 DevOpsDays 官方授權活動<br>\n專業技術論壇、解決方案 Demo、實機體驗工作坊讓您值回票價<br>\n囊括最多產業案例及導入實戰分享<br>\n議程後還有專家面對面時間讓您與大神近距離討教</p>\n<p><a href=\"https://devopsdays.tw/\">DevOpsDays TW 活動頁面</a></p>\n",
       "date_published": "2021-11-24T00:00:00-00:00"
@@ -68,6 +68,36 @@
       "title": "第106期 前端開發 推薦文章",
       "content_html": "<h2 id=\"%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC\"><a class=\"direct-link\" href=\"#%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC\">#</a> 前端開發</h2>\n<!-- summary -->\n<h3 id=\"creating-a-react-component-with-tdd\"><a class=\"direct-link\" href=\"#creating-a-react-component-with-tdd\">#</a> <a href=\"https://dev.to/mbarzeev/creating-a-react-component-with-tdd-2jn8\">Creating a React component with TDD</a></h3>\n<p>看那麼多文章說了什麼是單元測試、什麼是 TDD 或是該如何對 Component 用 TDD 開發，這篇文章的作者直接示範了整個 TDD 開發 Component 的流程，很適合剛接觸測試、不知道如何對 Component 做測試或是想用測試改變開發方式的讀者們一讀！</p>\n<!-- summary -->\n<h3 id=\"understanding-the-box-model-in-css\"><a class=\"direct-link\" href=\"#understanding-the-box-model-in-css\">#</a> <a href=\"https://dev.to/yamanidev/understanding-the-box-model-in-css-1af\">Understanding The Box Model in CSS</a></h3>\n<p>CSS 的屬性那麼多，真的不需要全部都記起來，只需要在用到的時候去搜尋相關的語法就行了，<strong>但是這並不代表你可以忽略那些在 CSS 中的重要觀念</strong>，這篇文章的作者講解了 CSS 的 Box Model（盒子模型），Box Model 是 CSS 非常重要的基本觀念，如果還不熟悉的話就快來看看這篇文章吧！</p>\n<h3 id=\"javascript-programming-styles%3A-best-practices\"><a class=\"direct-link\" href=\"#javascript-programming-styles%3A-best-practices\">#</a> <a href=\"https://www.ma-no.org/en/programming/javascript/javascript-programming-styles-best-practices\">JavaScript Programming Styles: Best Practices</a></h3>\n<p>不知道大家有沒有在使用 ESLint 等工具在檢查你的程式碼風格，除了一些客製化的部分，比較常見的其他應該是 <a href=\"https://google.github.io/styleguide/jsguide.html\">Google</a> 和 <a href=\"https://github.com/airbnb/javascript\">AirBnb</a> ，這裡我就不戰哪種風格比較優秀，不如先來看看作者選擇每種寫法的差異和理由吧！或許也能想想自己除了習慣外為什麼選擇了某種風格！</p>\n",
       "date_published": "2021-11-09T00:00:00-00:00"
+    },{
+      "id": "https://starbugs-blog.netlify.app/posts/conference/20211030-JSDC-2021/",
+      "url": "https://starbugs-blog.netlify.app/posts/conference/20211030-JSDC-2021/",
+      "title": "JSDC 2021",
+      "content_html": "<!-- summary -->\n<h2 id=\"javascript-%E9%96%8B%E7%99%BC%E8%80%85%E5%B9%B4%E6%9C%83\"><a class=\"direct-link\" href=\"#javascript-%E9%96%8B%E7%99%BC%E8%80%85%E5%B9%B4%E6%9C%83\">#</a> JavaScript 開發者年會</h2>\n<p>JSDC 打破了壁壘，整合來自獨立開發者、企業、組織及機構的科技力量。</p>\n<p>我們致力於知識全球化，並讓參與者重新認識 JavaScript。</p>\n<ul>\n<li><a href=\"https://2021.jsdc.tw/\">JSDC 2021 - 歡迎參加主年會</a></li>\n<li><a href=\"https://2021.jsdc.tw/timesheets\">JSDC 2021 - 大會議程</a></li>\n<li><a href=\"https://2021.jsdc.tw/speakers\">JSDC 2021 - 講者介紹</a></li>\n</ul>\n<!-- summary -->\n<h2 id=\"%E9%97%9C%E6%96%BCjsdc\"><a class=\"direct-link\" href=\"#%E9%97%9C%E6%96%BCjsdc\">#</a> 關於JSDC</h2>\n<p>JavaScript 開發者年會 (JavaScript Developer Conference，簡稱 JSDC) 是台灣最大的 JavaScript 年度性技術研討會， 旨在提供台灣中高階 JavaScript 技術人才與世界最新 JavaScript 相關技術討論與分享。<br>\nJSDC 由 2011 年底開始，由三個台灣開發者社群共同發起，近年各式開發者社群蓬勃發展Front-End Developer、 <a href=\"http://Angular.tw\">Angular.tw</a>、 <a href=\"http://ReactJS.tw\">ReactJS.tw</a> 等新興社群⼀⼀成立， 我們期許 JSDC 能成為每年網⾴技術開發者的中⾼階技術交流活動，整合來自獨立開發者、企業、組織及機構的科技力量，並致力於知識全球化，讓參與者重新認識 JavaScript。</p>\n",
+      "date_published": "2021-10-30T00:00:00-00:00"
+    },{
+      "id": "https://starbugs-blog.netlify.app/posts/conference/20211023-MOPCON-2021/",
+      "url": "https://starbugs-blog.netlify.app/posts/conference/20211023-MOPCON-2021/",
+      "title": "MOPCON 2021",
+      "content_html": "<h2 id=\"%E6%88%91%E5%80%9110%E6%AD%B2%E5%9B%89\"><a class=\"direct-link\" href=\"#%E6%88%91%E5%80%9110%E6%AD%B2%E5%9B%89\">#</a> 我們10歲囉</h2>\n<p>_Growing With You</p>\n<ul>\n<li><a href=\"https://mopcon.org/2021/\">行動科技年會 2021 | Mobile / Open / Platform Conference</a></li>\n<li><a href=\"https://mopcon.org/2021/schedule\">主要議程 | MOPCON 2021</a></li>\n<li><a href=\"https://mopcon.org/2021/speaker\">講者陣容 | MOPCON 2021</a></li>\n</ul>\n<!-- summary -->\n<h2 id=\"%E5%A0%85%E6%8C%81%E5%8D%81%E5%B9%B4%EF%BC%8C%E5%BE%88%E3%80%8C%E5%8D%97%E3%80%8D\"><a class=\"direct-link\" href=\"#%E5%A0%85%E6%8C%81%E5%8D%81%E5%B9%B4%EF%BC%8C%E5%BE%88%E3%80%8C%E5%8D%97%E3%80%8D\">#</a> 堅持十年，很「南」</h2>\n<p>MOPCON (Mobile Open Platform Conference) 堅持濁水溪以南的行動科技年會，南台灣千人軟體圈盛事。時逢第十周年，秉持著 Growing with you 精神與您一同成長，今年主題聚焦 Mobile 與 AIoT，期待能邀請老朋友和新同學，我們線上見！</p>\n<!-- summary -->",
+      "date_published": "2021-10-23T00:00:00-00:00"
+    },{
+      "id": "https://starbugs-blog.netlify.app/posts/conference/20211012-ModernWeb-2021/",
+      "url": "https://starbugs-blog.netlify.app/posts/conference/20211012-ModernWeb-2021/",
+      "title": "ModernWeb 2021",
+      "content_html": "<p><a href=\"https://modernweb.ithome.com.tw/\">ModernWeb'21 VIRTUAL EVENT</a></p>\n<!-- summary -->\n<p>身為企業 Web 開發者，除了要鍛鍊本職學能、培養扎實的 Web 開發技術底蘊外，必須切記技術的發展日新月異，因此在 Web 開發這一行，不可能老是憑著相同一招半式打天下。Web 開發人員需要學習更新穎、更多元也更精深的技術，且遍佈開發語言、架構設計、框架應用、敏捷管理流程，甚至是實作技巧等眾多環節。</p>\n<!-- summary -->\n<p>立即報名參加「ModernWeb'21 VIRTUAL EVENT」，我們以 Web 週規畫了多場精彩講座議程，讓 Web 技術大神們來幫您醍醐灌頂、打通任督二脈，在網路技術的浩瀚銀河創造更多的可能性！</p>\n",
+      "date_published": "2021-10-12T00:00:00-00:00"
+    },{
+      "id": "https://starbugs-blog.netlify.app/posts/conference/20211002-PyCon-2021%20copy/",
+      "url": "https://starbugs-blog.netlify.app/posts/conference/20211002-PyCon-2021%20copy/",
+      "title": "PycCon Taiwan 2021",
+      "content_html": "<h2 id=\"pycon-taiwan\"><a class=\"direct-link\" href=\"#pycon-taiwan\">#</a> PyCon Taiwan</h2>\n<ul>\n<li>持續舉辦 9 年</li>\n<li>每年議程 30 場以上</li>\n<li>參與會眾 800 人以上</li>\n</ul>\n<p>PyCon，亦即 Python 年會，是全球 Python 社群的年度盛會。PyCon 由各地同好自發籌辦，而現在台灣也有自己的 Python 年會了。這個活動旨在聚集台灣各領域應用 Python 的組織與個人，交流彼此的經驗心得，分享最新的技術發展，並親身體驗社群獨有的熱情。</p>\n<p>2021 年是 PyCon Taiwan 的十周年，今年 PyCon Taiwan 除了傳承十年來的社群交流經驗，我們更做了一些新嘗試，像是 Podcast 等。以期 PyCon Taiwan 十周年能促進不同族群間的交流，激盪出不一樣的火花。</p>\n",
+      "date_published": "2021-10-02T00:00:00-00:00"
+    },{
+      "id": "https://starbugs-blog.netlify.app/posts/conference/20210731-COSCUP-2021/",
+      "url": "https://starbugs-blog.netlify.app/posts/conference/20210731-COSCUP-2021/",
+      "title": "COSCUP 2021",
+      "content_html": "<p><a href=\"https://coscup.org/2021/zh-TW/\">COSCUP 2021 | Conference for Open Source Coders, Users, and Promoters</a></p>\n<!-- summary -->\n<h2 id=\"%E9%97%9C%E6%96%BC-coscup\"><a class=\"direct-link\" href=\"#%E9%97%9C%E6%96%BC-coscup\">#</a> 關於 COSCUP</h2>\n<p>COSCUP 是由台灣開放原始碼社群聯合推動的年度研討會，起源於 2006 年，是台灣自由軟體運動 (FOSSM) 重要的推動者之一。活動包括有講座、攤位、社團同樂會等，除了邀請國際的重量級演講者之外，台灣本土的自由軟體推動者也經常在此發表演說，會議的發起人、工作人員與講者都是志願參與的志工。COSCUP 的宗旨在於提供一個聯結開放原始碼開發者、使用者與推廣者的平台。希望藉由每年一度的研討會，來推動自由及開放原始碼軟體 (FLOSS)。由於有許多贊助商及熱心捐助者，所有議程都是免費參加，但因會場人數限制，通常在一開放網路報名後就會立刻額滿。</p>\n<!-- summary -->\n<p>開放原始碼 (Open source) 是在 1998 年出現的名詞，大家早已耳熟能詳。這種在網路上已經進行二、三十年的軟體開發模式之所以能成功，有許多原因。其中一個極為關鍵的因素，就是開發者與使用者的直接接觸。無屏障的交流加速了問題的回報和修補機制，而當這個機制被網路效應放大到極限時，Linus 定律就出現了：「臭蟲難逃眾人法眼」(With enough eyeballs, all bugs are shallow)，軟體品質因此顯著提昇。在開放原始碼的模式中，開發者和使用者中間的人不再是銷售員或客服，而是讓軟體更容易被接受的推廣者 (Promoters)，他們打包套件讓軟體更好裝、寫說明文件讓軟體更易學、辦推廣活動讓更多人接觸到好軟體、在網路上回答問題解決使用者的疑惑，而且不會把開發者藏在背後產生資訊的不對稱。</p>\n<p>開發者 (Coders)、使用者 (Users) 和推廣者 (Promoters) 是讓自由及開放原始碼軟體發光發熱的三大支柱，這個研討會就是專為這三種人舉辦的：你可以是 A 軟體的開發者、B 軟體的推廣者、C 軟體的使用者，不論你是已經踏入自由及開放原始碼軟體領域，還是一直站在門口不知如何入門，歡迎你來參加 COSCUP — Conference for Open Source Coders, Users and Promoters!</p>\n",
+      "date_published": "2021-07-31T00:00:00-00:00"
     }
   ]
 }
