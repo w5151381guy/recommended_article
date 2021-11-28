@@ -5,7 +5,7 @@
 	
 	<link href="https://starbugs-blog.netlify.app/feed/feed.xml" rel="self"/>
 	<link href="https://starbugs-blog.netlify.app"/>
-	<updated>2021-11-24T00:00:00-00:00</updated>
+	<updated>2021-11-30T00:00:00-00:00</updated>
 	<id>https://starbugs-blog.netlify.app/</id>
 	<author>
 		<name>StarBugs Weekly</name>
@@ -332,6 +332,25 @@ JSDC 由 2011 年底開始，由三個台灣開發者社群共同發起，近年
 囊括最多產業案例及導入實戰分享&lt;br&gt;
 議程後還有專家面對面時間讓您與大神近距離討教&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://devopsdays.tw/&quot;&gt;DevOpsDays TW 活動頁面&lt;/a&gt;&lt;/p&gt;
+
+		</content>
+	</entry>
+	
+	<entry>
+		<title>第109期 前端開發 推薦文章</title>
+		<link href="https://starbugs-blog.netlify.app/posts/starbugs-weekly/109/gqsm-109/"/>
+		<updated>2021-11-30T00:00:00-00:00</updated>
+		<id>https://starbugs-blog.netlify.app/posts/starbugs-weekly/109/gqsm-109/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC&quot;&gt;#&lt;/a&gt; 前端開發&lt;/h2&gt;
+&lt;!-- summary --&gt;
+&lt;h3 id=&quot;i-made-a-working-gameboy-css-art%3A-try-it-out-%F0%9F%95%B9&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#i-made-a-working-gameboy-css-art%3A-try-it-out-%F0%9F%95%B9&quot;&gt;#&lt;/a&gt; &lt;a href=&quot;https://theangularguy.hashnode.dev/i-made-a-working-gameboy-css-art-try-it-out#comments-list&quot;&gt;I made a working Gameboy CSS art: try it out 🕹&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;如果無法弄到一台真正的 Gameboy 來邊玩邊懷舊，不如就看著這篇文章自己寫一個 Gameboy 吧！雖然文章中沒有提及所有程式碼的解釋，但是作者也挑了幾個像是遊戲的演算法或 CSS 等關鍵的觀念解釋，真的手癢的話就直接 fork 下來改一波吧！&lt;/p&gt;
+&lt;!-- summary --&gt;
+&lt;h3 id=&quot;rematch---a-better-redux%3F&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#rematch---a-better-redux%3F&quot;&gt;#&lt;/a&gt; &lt;a href=&quot;https://blog.openreplay.com/rematch-a-better-redux&quot;&gt;Rematch - a better Redux?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/rematch/rematch&quot;&gt;Rematch&lt;/a&gt; 是基於 Redux 的狀態管理器，但又移除了一些 Redux 所需的東西！像是不再使用 middleware，而是直接內建同步操作的 &lt;code&gt;effects&lt;/code&gt; 等，還有更多其他的就到文章裡看作者介紹吧！&lt;/p&gt;
+&lt;h3 id=&quot;oops-in-javascript-with-easy-to-understand-examples-%F0%9F%94%A5%F0%9F%94%A5&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;#oops-in-javascript-with-easy-to-understand-examples-%F0%9F%94%A5%F0%9F%94%A5&quot;&gt;#&lt;/a&gt; &lt;a href=&quot;https://nehalmahida.hashnode.dev/oops-in-javascript-with-easy-to-understand-examples&quot;&gt;OOPS in JavaScript with easy to understand examples 🔥🔥&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;這篇文章的介紹該如何在 JavaScript 內使用 OOP（Object-oriented programming）的各種觀念，其中包含了 Object、Class、Encapsulation 和 Abstraction 等使用方法，非常適合想要了解如何在 JavaScript 使用 OOP 的開發者閱讀！&lt;/p&gt;
 
 		</content>
 	</entry>
